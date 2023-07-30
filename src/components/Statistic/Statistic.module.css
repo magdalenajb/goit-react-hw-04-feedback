@@ -1,0 +1,21 @@
+.feedbackList{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    
+}
+
+.feedbackListItem{
+    display: flex;
+    align-items: left;
+    font-size: 32px;
+    padding: 5px;
+}
+
+.feedbackListPercentage{
+    display: flex;
+    align-items: left;
+    font-size: 32px;
+    padding: 10px;
+    color:black;
+}
